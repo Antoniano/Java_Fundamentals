@@ -1,4 +1,4 @@
-package ua.org.oa.AlphaRomeo;
+package ua.org.oa.alpharomeo;
 
 public class Patient {
 
