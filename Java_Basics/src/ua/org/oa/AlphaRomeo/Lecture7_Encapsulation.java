@@ -19,7 +19,7 @@ public class Lecture7_Encapsulation {
 	
 	//* Using the static methods the private constructors could be used (realize checks and exeptions)
 	
-	private int pv = 10; // access is given only in this class, but not in any other class. Could be used by static method
+	//* private int pv = 10; // access is given only in this class, but not in any other class. Could be used by static method
 	
 	
 	public static void main(String[] args) {

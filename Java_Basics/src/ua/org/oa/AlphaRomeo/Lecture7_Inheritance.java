@@ -7,12 +7,13 @@ public class Lecture7_Inheritance {
 	//* public class Shirt extends Clothing { } --> extends means that Clothing is child of Shirt parent class
 	//* "this" --> replace the Shirt class word (exm: "this.cost")
 	
-	
-	public static void main(String[] args) {
-
-		
-		
+	public void m () {
+		System.out.println("Lecture7");
 	}
-
+	
+	public void n () {
+		System.out.println("Lecture7");
+	}
+	
 
 }
