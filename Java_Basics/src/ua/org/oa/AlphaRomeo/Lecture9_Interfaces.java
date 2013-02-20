@@ -8,6 +8,7 @@ public class Lecture9_Interfaces {
 		 * All methods are "public abstract"
 		 * Class must implement all the methods of Interface and the methods of all children of used Interface
 		 * Interface can "extend" another interfaces
+		 * Interfaces is the only variant to majority implementation
 		 */
 	
 	public static void main(String[] args) {
