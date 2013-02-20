@@ -6,8 +6,8 @@ public class EasyLevelSecondTask {
 		
 		String a = "Candy";
 		
-		int i = a.length();
-		String c = a.substring(i-3, i);
+		int length = a.length(); int middle = (length - 3) / 2;
+		String c = a.substring(middle, length-middle);
 		System.out.println(c);
 		
 	}
